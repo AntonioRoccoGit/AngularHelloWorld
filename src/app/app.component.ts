@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularHelloWorld';
+  message = 'This is my first repo with angular'
 }
